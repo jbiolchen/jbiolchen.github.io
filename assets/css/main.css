@@ -69,6 +69,12 @@ dt {
 color: #FFFFFF;
 font-weight: bold;
 }
+figcaption {
+  background-color: black;
+  color: green;
+  padding: 2px;
+  text-align: center;
+}
 .smallimg {
 background-attachment: fixed;
 background-position: left;
@@ -76,6 +82,14 @@ background-repeat: no-repeat;
 background-size: cover;
 width: 100px;
 height: 100px;
+}
+.mediumimg {
+background-attachment: fixed;
+background-position: left;
+background-repeat: no-repeat;
+background-size: cover;
+width: 300px;
+height: 300px;
 }
 .largeimg {
 background-attachment: fixed;
