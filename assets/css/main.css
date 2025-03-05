@@ -128,5 +128,6 @@ ol {display: table; margin-left: 0; margin-right: auto; list-style-position: ins
 /* padding */
 .topp {padding-top: 10px;}
 .left {padding-left: 30px}
+.leftindent {padding-left: 60px}
 .mediumsize {font-size: 19px;}
 .inline-block {display: inline-block;}
